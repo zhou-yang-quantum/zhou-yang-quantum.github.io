@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Florence' La-la Land"
+title: 
 author_profile: true
 redirect_from: 
   - /about/
