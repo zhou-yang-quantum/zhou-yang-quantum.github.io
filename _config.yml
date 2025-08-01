@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Zhou Yang's la-la land"
+title                    : "Florence' la-la land"
 title_separator          : "-"
 name                     : &name "Zhou 'Florence' Yang"
 description              : &description "quantum physics, immortality and parallel universe."
@@ -24,12 +24,12 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Zhou 'Florence' Yang"
-  pronouns         : ""  
+  pronouns         :  
   bio              : "theoretical physicist"
-  location         : ""
+  location         : 
   employer         : "Cornell University"
   uri              : # URL
-  email            : "" 
+  email            : 
 
   # Academic websites
   academia         : # URL
@@ -37,9 +37,9 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=uDQaTj8AAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : ""
+  orcid            : 
   semantic         : # URL
-  pubmed           : ""
+  pubmed           : 
   researchgate     : # URL
   scopus           : # URL
 
@@ -47,7 +47,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : ""
+  github           : 
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -57,7 +57,7 @@ author:
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
-  goodreads        : # Username
+  goodreads        : "https://www.goodreads.com/user/show/161449493-zhou-yang"
   google_plus      : # Username
   keybase          : # Username
   instagram        : # Username
